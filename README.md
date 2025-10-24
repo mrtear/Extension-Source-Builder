@@ -1,15 +1,18 @@
 <div align="center">
-  <a href="https://github.com/Kohi-den/extensions-source">
-    <img src="https://avatars.githubusercontent.com/u/177765219" alt="Manga Extensions Builder Logo" height="100">
+  <a href="https://github.com/yuzono/aniyomi-extensions">
+    <img src="https://avatars.githubusercontent.com/u/209217388" alt="Yuzono" height="100">
   </a>
-  <img src="https://i.ibb.co/Z6kXZ1mc/androidstudio-1024x1024.png" alt="Manga Extensions Builder Logo" height="100">
+  <a href="https://github.com/Kohi-den/extensions-source">
+    <img src="https://avatars.githubusercontent.com/u/177765219" alt="Kohi-Den" height="100">
+  </a>
+  <img src="https://i.ibb.co/Z6kXZ1mc/androidstudio-1024x1024.png" alt="Logo" height="100">
   <a href="https://github.com/keiyoushi/extensions-source">
-    <img src="https://avatars.githubusercontent.com/u/113362897" alt="Manga Extensions Builder Logo" height="100">
+    <img src="https://avatars.githubusercontent.com/u/113362897" alt="Keiyoushi" height="100">
   </a>
 
   <h1>Extension Source Builder Using Colab</h1>
 
-  <a href="https://colab.research.google.com/drive/1QFQcJUoTAIOOZaJ0aaMW0LzJES0r3GU-">
+  <a href="https://colab.research.google.com/github/mrtear/Extension-Source-Builder/blob/main/Extension_Source_Builder.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200px"/>
   </a>
 </div>
@@ -27,13 +30,13 @@ Extension-Source Builder is a Colab notebook designed to easily build APKs from 
 
 ## 🚀 Quick Start
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QFQcJUoTAIOOZaJ0aaMW0LzJES0r3GU-)
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrtear/Extension-Source-Builder/blob/main/Extension_Source_Builder.ipynb)
 2. Run cells in order
 
 ## 🚨 Notes
 
 1. **Runtime Duration (FREE):**
-   - TPU Runtime: ~3h 20m | ~334GB RAM, 96vCPU
+   - TPU Runtime: ~3h 20m | ~47GB RAM, 24vCPU
    - CPU Runtime: ~85h 40m | ~12GB RAM, 2vCPU
 
 2. **Before Closing:**
