@@ -43,7 +43,7 @@ Extension-Source Builder is a Colab notebook designed to easily build APKs from 
    - Properly terminate session: `Runtime → Disconnect and delete runtime`
   
 ## 🔗 Resources
-[Extension Repos Wiki](https://wotaku.wiki/guides/tech/repo)
+[Extension Repos Wiki](https://wotaku.wiki/ext/mihon)
 
 ---
 <p align="center">
