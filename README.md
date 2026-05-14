@@ -2,9 +2,6 @@
   <a href="https://github.com/yuzono/aniyomi-extensions">
     <img src="https://avatars.githubusercontent.com/u/209217388" alt="Yuzono" height="100">
   </a>
-  <a href="https://github.com/Kohi-den/extensions-source">
-    <img src="https://avatars.githubusercontent.com/u/177765219" alt="Kohi-Den" height="100">
-  </a>
   <img src="https://i.ibb.co/Z6kXZ1mc/androidstudio-1024x1024.png" alt="Logo" height="100">
   <a href="https://github.com/keiyoushi/extensions-source">
     <img src="https://avatars.githubusercontent.com/u/113362897" alt="Keiyoushi" height="100">
